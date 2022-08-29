@@ -6,6 +6,14 @@
 
 This is a shortcut path to start studying **Data Science**. Just follow the steps to answer the questions, "What is Data Science and what should I study to learn Data Science?"
 
+## Sponsors
+
+| Sponsor | Pitch |
+| --- | --- |
+| --- | Be the first to sponsor! `github@academic.io` |
+
+
+
 <br>
 
 ## What is Data Science?
@@ -192,6 +200,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Tutorials to get started on signal processings for machine learning](https://github.com/jinglescode/python-signal-processing)
 - [Realtime deployment](https://www.microprediction.com/python-1) Tutorial on Python time-series model deployment.
 - [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/)
+- [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
 
 ### Free Courses
 
@@ -293,6 +302,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Towhee](https://github.com/towhee-io/towhee) | A Python library that helps you encode your unstructured data into embeddings. |
 | [LineaPy](https://github.com/LineaLabs/lineapy) | Ever been frustrated with cleaning up long, messy Jupyter notebooks? With LineaPy, an open source Python library, it takes as little as two lines of code to transform messy development code into production pipelines. |
 | [envd](https://github.com/tensorchord/envd) | 🏕️ machine learning development environment for data science and AI/ML engineering teams |
+| [Explore Data Science Libraries](https://kandi.openweaver.com/explore/data-science) | A search engine 🔎 tool to discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources |
+| [MLEM](https://github.com/iterative/mlem) | 🐶 Version and deploy your ML models following GitOps principles |
+
 
 ## Machine Learning in General Purpose
 
@@ -543,7 +555,14 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Casual Inference for Data Science](https://www.manning.com/books/julia-for-data-analysis) - Early access
 - [Dive into Deep Learning](https://d2l.ai/)
 
+# Book Deals (Affiliated) 🛍
 
+- [eBook sale - Save up to 45% on eBooks!](https://www.manning.com/?utm_source=mikrobusiness&utm_medium=affiliate&utm_campaign=ebook_sale_8_8_22)
+
+- [Causal Machine Learning](https://www.manning.com/books/causal-machine-learning?utm_source=mikrobusiness&utm_medium=affiliate&utm_campaign=book_ness_causal_7_26_22&a_aid=mikrobusiness&a_bid=43a2198b
+)
+- [Managing ML Projects](https://www.manning.com/books/managing-machine-learning-projects?utm_source=mikrobusiness&utm_medium=affiliate&utm_campaign=book_thompson_managing_6_14_22)
+- [Causal Inference for Data Science](https://www.manning.com/books/causal-inference-for-data-science?utm_source=mikrobusiness&utm_medium=affiliate&utm_campaign=book_ruizdevilla_causal_6_6_22)
 
 # Socialize
 [top](#awesome-data-science)
