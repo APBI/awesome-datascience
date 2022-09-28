@@ -125,6 +125,8 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - Autoencoder
 - Generative Adversarial Network (GAN)
 - Self-Organized Maps
+- Transformer
+- Conditional Random Field (CRF)
 
 ## COLLEGES
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -184,6 +186,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 - [NLP Specialization Coursera](https://www.coursera.org/specializations/natural-language-processing)
 - [Recommender Systems Specialization from University of Minnesota](https://www.coursera.org/specializations/recommender-systems) is an intermediate/advanced level specialization focused on Recommender System on Coursera platform.
+- [Stanford Artificial Intelligence Professional Program](https://online.stanford.edu/programs/artificial-intelligence-professional-program)
 
 
 ## Tutorials
@@ -666,7 +669,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Loic Tetrel](https://ltetrel.github.io/) - Data science blog
 - [Chip Huyen's Blog](https://huyenchip.com/blog/) - ML Engineering, MLOps, and the use of ML in startups
 - [Maria Khalusova](https://www.mariakhalusova.com/) - Data science blog
-
+- [Aditi Rastogi](https://medium.com/@aditi2507rastogi) - ML,DL,Data Science blog
 
 ## Facebook Accounts
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -805,6 +808,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Ask Dr Chong: How to Lead in Data Science - Part 5](https://youtu.be/MYdQq-F3Ws0)
 - [Ask Dr Chong: How to Lead in Data Science - Part 6](https://youtu.be/LOOt4OVC3hY)
 - [Regression Models: Applying simple Poisson regression](https://www.youtube.com/watch?v=9Hk8K8jhiOo)
+- [Deep Learning Architectures](https://www.youtube.com/playlist?list=PLv8Cp2NvcY8DpVcsmOT71kymgMmcr59Mf)
 
 
 ## Telegram Channels
