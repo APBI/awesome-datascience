@@ -119,6 +119,15 @@ Unlike R, Python was not built from the ground up with data science in mind, but
 
  When embarking on your journey to becoming a data scientist, the choice of language isn't particularly important, and both Python and R have their pros and cons. Pick a language you like, and check out one of the [Free courses](#free-courses) we've listed below!
 
+### Beginner Roadmap
+If you're just starting out, here's a simple recommended path:
+
+1. **Learn Python** – Start with basics: variables, loops, functions
+2. **Learn core libraries** – Pandas, NumPy, Matplotlib, Scikit-Learn
+3. **Practice with beginner projects** – Try Titanic survival or house price prediction on Kaggle
+4. **Learn Math basics** – Statistics, Linear Algebra, Probability
+5. **Move into ML** – Supervised learning → Unsupervised → Deep Learning
+
 ## Agents
 
 Please, contribute about "agents"
@@ -769,6 +778,7 @@ This section includes some additional reading material, channels to watch, and t
 
 - [DataTalks.Club](https://datatalks.club). A weekly newsletter about data-related things. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
 - [The Analytics Engineering Roundup](https://roundup.getdbt.com/about). A newsletter about data science. [Archive](https://roundup.getdbt.com/archive).
+- [Techpresso](https://dupple.com/techpresso). A free daily newsletter covering the most impactful developments in AI, ML, and tech. [Archive](https://dupple.com/techpresso).
 
 ### Mailing lists
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -1172,6 +1182,7 @@ Some data mining competition platforms
 - [GBIF](https://www.gbif.org/) - Global Biodiversity Information Facility: 2.4B+ species occurrence records. Free, open API for ecological modeling and ML research.
 - [FAOSTAT](https://www.fao.org/faostat/en/) - UN FAO statistics on food production, trade, land use, and emissions for 245+ countries. Free API and bulk download.
 - [FirstData](https://github.com/MLT-OSS/FirstData) - The world's most comprehensive authoritative data source knowledge base. 210+ curated sources from governments, international organizations, and research institutions. MCP integration for AI agents. MIT licensed.
+- [latamdata-py](https://github.com/juanmoisesd/latamdata-py) - Python package for one-line access to 38 open research datasets from Latin America (health, neuroscience, mental health, economics). pip install latamdata-py.
 
 
 ### Comics
