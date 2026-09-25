@@ -254,6 +254,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Google Advanced Data Analytics Certificate](https://grow.google/data-analytics/) – Professional courses in data analysis, statistics, and machine learning fundamentals.
 - [Maschinelle Sprachgebrauchsanalyse - Grundlagen der Korpuslinguistik](https://www.twillo.de/edu-sharing/components/collections?id=e6ce03ae-4660-49b0-be10-dcc92e71e796) - course material on text-mining / corpus-linguistics *in German* funded by the federal state of North Rhine-Westphalia
 - [Programmieren für Germanist*innen](https://www.twillo.de/edu-sharing/components/collections?id=16bac749-f10e-483f-9020-5d6365b4e092) - course material: programming in python *in German* for digital humanities - funded by the federal state of North Rhine-Westphalia
+- [QuiddityML](https://quiddityml.com/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-datascience) - Short lessons with hands-on coding exercises and spaced repetition, covering Python, PyTorch, math for ML, ML foundations, NLP, and computer vision.
 
 ### Intensive Programs
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -461,6 +462,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [Yolov3](https://github.com/ultralytics/yolov3)
 * [Yolov5](https://github.com/ultralytics/yolov5)
 * [Yolov8](https://github.com/ultralytics/ultralytics)
+* [OpenLanguageModel](https://github.com/openlanguagemodel/openlanguagemodel) - PyTorch-native library for building, training and teaching transformer language models, with architectures written as ordinary nn.Modules.
 
 #### TensorFlow Ecosystem
 * [TensorFlow](https://github.com/tensorflow/tensorflow)
